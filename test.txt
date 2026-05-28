@@ -1,0 +1,153 @@
+合宿について-20260525_103350-会議の録音 (1) (online-video-cutter.com)
+
+[00:00] Speaker 1:
+[Japanese] "作成と、え、するが、えー、適応支援って、これが今日中ですか。"
+
+[00:13] Speaker 2:
+[Japanese] "はい。"
+
+[00:16] Speaker 1:
+[Japanese] "OK。"
+
+[00:16] Speaker 2:
+[Vietnamese] "Cái này trong, trong, ơ, extension này, à, and add a tool, ơ, required configuration, ờ, after installation nên là trong hôm nay đúng không Hoàng? Confirm lại nè."
+[Japanese] "これは、えっと、この拡張機能の中で、 あ、それとツールを追加して、必須設定を、 えっと、インストール後なので、今日中で合ってるよね、ホアン？ もう一回確認して。"
+
+[00:30] Speaker 3:
+[Vietnamese] "Cái này á."
+[Japanese] "これね。"
+
+[00:32] Speaker 2:
+[Vietnamese] "Đó, thì confirm nha, confirm lại thôi. Trong nay đúng không? Cái số 3."
+[Japanese] "ほら、確認してね、もう一回確認するだけ。 今日中で合ってるよね？ 3番。"
+
+[00:37] Speaker 3:
+[Vietnamese] "Đang thấy ghi ngày mai mà."
+[Japanese] "明日って書いてあるのに見えてるよ。"
+
+[00:39] Speaker 2:
+[Vietnamese] "Dòng thứ 3."
+[Japanese] "3行目。"
+
+[00:41] Speaker 3:
+[Vietnamese] "Dòng thứ 3, ờ, có cái ở đây."
+[Japanese] "3行目、えっと、ここにこれがある。"
+
+[00:44] Speaker 2:
+[Vietnamese] "Ờ, tiếng Anh."
+[Japanese] "うん、英語。"
+
+[00:45] Speaker 3:
+[Vietnamese] "Paracel tool. Ờ, ừ, ừ, đúng rồi."
+[Japanese] "Paracel tool。 うん、うん、そうだね。"
+
+[00:51] Speaker 2:
+[English] "OK, yes, OK."
+[Japanese] "OK、はい、OK。"
+
+[00:53] Speaker 3:
+[Vietnamese] "Khoan, khoan, khoan. It can be run on Suruga terminal nghĩa là sao?"
+[Japanese] "待って、待って、待って。 Suruga terminal で実行できるってことは どういう意味？"
+
+[01:01] Speaker 2:
+[Vietnamese] "Support. Terminal có gì đó."
+[Japanese] "サポート。 ターミナルに何かあって。"
+
+[01:06] Speaker 3:
+[Vietnamese] "Không biết, đang ghi trong đây nè, cái dòng thứ 3 đó."
+[Japanese] "わからないけど、ここに書いてあるよ、 その3行目。"
+
+[01:09] Speaker 2:
+[Vietnamese] "Dòng thứ 3. Configuration for."
+[Japanese] "3行目。 用の設定。"
+
+[01:13] Speaker 3:
+[Vietnamese] "Anh ghi rõ cái tool đó thì cái tool của mình là cái tool xài trình duyệt thôi mà, chứ còn có tool gì cài đặt local đâu. Paracel không có tool gì cài đặt local hết á. Hiểu ý không?"
+[Japanese] "そのツールをはっきり書いておけば、 うちのツールはブラウザで使うツールだけだよ、 ローカルでインストールするツールなんてないし。 Paracel にはローカルインストール用のツールが全然ない。 言いたいこと分かる？"
+
+[01:35] Speaker 2:
+[Vietnamese] "Không."
+[Japanese] "分からない。"
+
+[01:38] Speaker 3:
+[Vietnamese] "Ý là mình có cái tool gì để cài config local đâu?"
+[Japanese] "つまり、ローカル設定を入れるツールがあるってこと？"
+
+[01:41] Speaker 2:
+[Vietnamese] "Không biết, bữa trước em, em, em đưa cái tool GL thì, thì, thì mới có cái việc này chứ."
+[Japanese] "わからないけど、前に君が GL のツールを渡したとき、 それで初めてこういうことになったんだよね。"
+
+[01:46] Speaker 3:
+[Vietnamese] "Không có, nói gì nào?"
+[Japanese] "ないよ、何て言ってたっけ？"
+
+[01:47] Speaker 2:
+[Vietnamese] "Nó nói vậy. Đưa đây xem màn hình đi, đưa lại, ấy lại cái tool nó lên xem coi nào."
+[Japanese] "そう言ってた。 こっちに出して画面見せて、 戻して、あのツールを出して見せてみて。"
+
+[01:56] Speaker 1:
+[Japanese] "えーと、じゃあ高橋さん、これタスクに対して、あの、期日と、えっと、担当者、パラセルとスルガの担当者、ちょっと入れさせてもらいたいです。"
+
+[02:05] Speaker 2:
+[Japanese] "はい、はい。"
+
+[02:06] Speaker 1:
+[Japanese] "で、まず拡張機能とツールをインストールしたあとに設定が必要なもの一覧作成と、スルガの適応支援をお願いしたいです。これパラセルさん、どなたが担当ですか。"
+
+[02:18] Speaker 2:
+[Vietnamese] "Cái task số 3 này là ai đang là, là, là, là picking Paracel? Hoàng hay là ai? Để khách hàng review luôn nè."
+[Japanese] "このタスク3番は、誰がParacelをピッキングしてるの？ ホアン？それとも誰？ お客さんに一緒にレビューさせて。"
+
+[02:30] Speaker 3:
+[Vietnamese] "Task số 3 hả?"
+[Japanese] "タスク3番？"
+
+[02:32] Speaker 2:
+[Vietnamese] "Dòng thứ 3 trên màn hình."
+[Japanese] "画面の3行目。"
+
+[02:36] Speaker 3:
+[Vietnamese] "Task này thì, à, mình chỉ có một cái tool V canban là của anh, anh Minh đang control thôi."
+[Japanese] "このタスクは、えっと、V canbanのツールが1つしかなくて、 それはミンさんが管理してるだけなんだ。"
+
+[02:41] Speaker 2:
+[Vietnamese] "Câu hỏi của anh ai là pick của upper của item này."
+[Japanese] "あなたの質問は、このアイテムの上位を誰がピックしたのか。"
+
+[02:45] Speaker 3:
+[Vietnamese] "Cái item nó phải ghi rõ, không có ghi kiểu như nữa. Em nói là chỉ cái V canban thôi là của anh Minh, còn anh ghi cái tool Paracel tool là không biết cái Paracel tool gì. Phải làm rõ cái nội dung chứ, ghi vô rồi ai ai làm."
+[Japanese] "アイテム名ははっきり書かないと、別のやり方じゃ書けない。 言ってるのは、V canbanだけはミンさんのもので、 でもParacelのツールを書いたのは、どのParacelツールか分からないってこと。 内容をはっきりさせないと、書いたら誰がやったのか分からない。"
+
+[02:57] Speaker 2:
+[Vietnamese] "Nội dung, nội dung câu hỏi là vậy, chưa biết đúng không? Bây giờ có là sau khi, sau khi đã in, à, sau khi đã install tool. Ví dụ như, à, thì, à, cái phần setting á, thì hãy tạo một cái list cần thiết, à, về, à, về phần setting. Thì có clear được cái này không?"
+[Japanese] "内容、質問の内容はそういうことで、まだ分からないよね？ 今は、ツールを印刷して、えっと、インストールした後の話。 例えば、えっと、設定の部分は、 設定に関する必要なリストを作ってください。 これはクリアできますか？"
+
+[03:23] Speaker 3:
+[Vietnamese] "Không."
+[Japanese] "いいえ。"
+
+[03:30] Speaker 1:
+[Japanese] "あ、どうですか。さ、高橋さん、ど、誰が担当しますか。"
+
+[03:36] Speaker 2:
+[Japanese] "えーと。ちょっと待ってくださいね。 Tức là cái tool sau khi mà được install thì cái tool gì?"
+[Japanese] "つまり、インストールした後のツールって、どのツール？"
+
+[03:47] Speaker 3:
+[Vietnamese] "Tool gì em đang hỏi đấy? Tool là tool gì đấy?"
+[Japanese] "どのツールって聞いてるの？ そのツールって何なの？"
+
+[03:51] Speaker 2:
+[Japanese] "あの、ち、あ、OK。"
+
+[03:54] Speaker 3:
+[Vietnamese] "Ờ, công cụ chính của mình là online hết rồi, web, dạng web hết rồi, cho nên không cần cài đặt gì. Đa phần các công cụ của mình là sắp để để đưa vào mà, cho phát triển là phát triển dự án là trên web, nền tảng web application, cho nên là không cần phát triển gì cả, không cần cài đặt gì cả."
+[Japanese] "えっと、うちのメインツールは全部オンラインで、Web、Web形式なので、 だから何もインストールする必要はありません。 ほとんどのツールはもうすぐ導入する予定で、 開発はWeb上でプロジェクトを進めるためのもので、 Webアプリケーションのプラットフォームです。 なので何も開発する必要はなくて、 インストールも何も要りません。"
+
+[04:11] Speaker 2:
+[Vietnamese] "Sure chưa?"
+[Japanese] "確定？"
+
+[04:12] Speaker 3:
+[Vietnamese] "Sure. Bữa trước, hộp bữa hôm trước có nói rồi mà, mấy cái tool đấy mình build platform đang chạy trên trình duyệt. Bữa trước anh có nói cái câu đó mà, sao giờ thành cái cài chỉ nữa."
+[Japanese] "確定。 前回、前の回のチャットでも言ったけど、 そのツールはプラットフォームをビルドして、ブラウザ上で動かしてるんだ。 前にあなた、その言葉言ってたよね。 なんで今はインストールだけになっちゃったの。"

@@ -1,0 +1,6 @@
+# This project uses only Python standard library modules.
+# No pip packages are required.
+#
+# System dependency:
+# - ffmpeg must be installed and available in PATH
+#   for embed_subtitles.py and main.py
